@@ -30,6 +30,6 @@
 
 [linkedin]: https://www.linkedin.com/in/randallk1738/
 [Tableau]: https://public.tableau.com/profile/randall.kakaire#!/?newProfile=&activeTab=0
-[github] : https://github.com/RAXAI
+[github]: https://github.com/RAXAI
 
 

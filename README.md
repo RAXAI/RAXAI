@@ -18,7 +18,7 @@
 - ⚡ Fun fact: Avid fan of sports (NBA,NFL), Anime and Manga 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://origin-tableau-www.tableau.com/themes/custom/tableau_www/logo.png" />][Tableau]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://pbs.twimg.com/profile_images/1268207088683020288/d9agkn4h_400x400.jpg" />][Tableau]
 
 
 [linkedin]: https://www.linkedin.com/in/randallk1738/

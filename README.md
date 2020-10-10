@@ -16,6 +16,7 @@
 - 🔭 I’m currently working on a, Music Recommender
 - 🌱 I’m currently learning, about, Recommendation Systems
 - ⚡ Fun fact: Avid fan of sports (NBA,NFL), Anime and Manga 
+![](https://komarev.com/ghpvc/?username=RAXAI&color=violet)
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://pbs.twimg.com/profile_images/1268207088683020288/d9agkn4h_400x400.jpg" />][Tableau]

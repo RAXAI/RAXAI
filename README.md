@@ -13,8 +13,8 @@
 
 ### I'm a recent MSc Data Science Graduate
 
-- 🔭 I’m currently working on a, Music Recommender
-- 🌱 I’m currently learning, about, Recommendation Systems
+- 🔭 I’m currently working on , Customer Segmentation using K-means
+- 🌱 I’m currently learning, about, RFM analysis
 - ⚡ Fun fact: Avid fan of sports (NBA,NFL), Anime and Manga 
 
 ![](https://komarev.com/ghpvc/?username=RAXAI&color=blueviolet)

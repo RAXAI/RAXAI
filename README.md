@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on , Customer Segmentation using K-means
 - 🌱 I’m currently learning, about, RFM analysis
-- ⚡ Fun fact: Avid fan of sports (NBA,NFL), Anime and Manga 
+- ⚡  
 
 ![](https://komarev.com/ghpvc/?username=RAXAI&color=blueviolet)
 ### Connect with me:
